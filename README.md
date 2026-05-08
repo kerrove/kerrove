@@ -4,7 +4,7 @@
 
 <p align="center">🌍 Russian, Moscow <br></p>
 <p align="center">📫 Связаться со мной можно:<br>
-<a href="https://t.me/kerove52"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+<a href="https://t.me/kerrove"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 <a href="mailto:kirove.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/></a><br>
 </p>
 
