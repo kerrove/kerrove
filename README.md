@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Меня зовут Кирилл и я веб-разработчик. </h1>
-<p align="center"><b >Я занимаюсь как Frontend (Преимущественно), так и Backend разработкой. Могу сделать сайт под ключ, сверстать макет, написать дизайн с нуля.</b></p>
-<p align="center"><b >Свой путь я начинал с программирования на Python, а потом познакомился с Веб-разработкой. Начинал с HTML, CSS, Bootstrap 3, и начал учить PHP, на нём я и написал свой первый проект. Уже со знаниями PHP я перешёл на JavaScript и его экосистемой: React, Next.js, Nest.js, Node.Js, Express</b></p>
+<p align="center">Fullstack-разработчик с основным опытом в Frontend-разработке. Занимаюсь созданием веб-приложений полного цикла: от разработки пользовательских интерфейсов и адаптивной верстки до проектирования серверной логики и интеграции API.
 
+Работаю с JavaScript, TypeScript, React, Next.js, Node.js, NestJS, Express.js, Golang, PHP и Python. Имею опыт разработки и запуска веб-проектов под ключ, а также построения масштабируемых клиентских и серверных решений.</p>
 <p align="center">🌍 Russian, Moscow <br></p>
 <p align="center">📫 Связаться со мной можно:<br>
 <a href="https://t.me/kerrove"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
